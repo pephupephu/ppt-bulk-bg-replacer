@@ -1,0 +1,5 @@
+﻿name: ppt-bg-replacer
+description: >
+  Replace slide background images in PowerPoint (.pptx) files.
+  Supports single-file and batch-directory modes.
+  Uses INSERT-only approach for reliable results without corrupting content images.
